@@ -1,0 +1,4 @@
+include ':testtwo'
+include ':testo'
+include ':app'
+rootProject.name = "My Application"
